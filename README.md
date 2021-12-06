@@ -2,7 +2,7 @@
 spring boot cloud config server
 
 
-2.4 이전에는 client 에 bootstrap.yml(또는 properties) 파일을 먼저 읽어 들였었다.
+2.4 이전에는 client 에 bootstrap.yml를 우선 순위로 사용하였으나 현재는 사용하지 않는다.
 
 application.yml
 
